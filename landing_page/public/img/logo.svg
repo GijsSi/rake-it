@@ -1,4 +1,13 @@
-<svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="44" height="44" rx="6" fill="#4F46E5"/>
-<path d="M31.3662 34H25.7427L17.4282 19.4014V34H11.7725V10.5391H17.4282L25.7266 25.1377V10.5391H31.3662V34Z" fill="white"/>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="44" height="44">
+	<title>logo-svg</title>
+	<defs>
+		<image width="48" height="48" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwxKSI+PHBhdGggZD0iTTE2LjUzNTcgMTUuOTQ2NUwxOC42NTcgMTMuODI1MkwxNS40NzUgMTAuNjQzMkwxOS4wMTA2IDcuMTA3NjhMMTYuODg5MiA0Ljk4NjM2TDEzLjM1MzcgOC41MjE4OUwxMC4xNzE3IDUuMzM5OTFMOC4wNTA0MSA3LjQ2MTIzTDE2LjUzNTcgMTUuOTQ2NVpNMTMuMzUzNyA1LjY5MzQ2TDE2LjE4MjEgMi44NjUwNEMxNi41NzI3IDIuNDc0NTEgMTcuMjA1OCAyLjQ3NDUxIDE3LjU5NjMgMi44NjUwNEwyMS4xMzE5IDYuNDAwNTdDMjEuNTIyNCA2Ljc5MTA5IDIxLjUyMjQgNy40MjQyNiAyMS4xMzE5IDcuODE0NzhMMTguMzAzNSAxMC42NDMyTDIwLjc3ODMgMTMuMTE4MUMyMS4xNjg5IDEzLjUwODYgMjEuMTY4OSAxNC4xNDE4IDIwLjc3ODMgMTQuNTMyM0wxMy4wMDAyIDIyLjMxMDVDMTIuNjA5NiAyMi43MDEgMTEuOTc2NSAyMi43MDEgMTEuNTg1OSAyMi4zMTA1TDEuNjg2NDUgMTIuNDExQzEuMjk1OTIgMTIuMDIwNSAxLjI5NTkyIDExLjM4NzMgMS42ODY0NSAxMC45OTY4TDkuNDY0NjIgMy4yMTg1OUM5Ljg1NTE1IDIuODI4MDcgMTAuNDg4MyAyLjgyODA3IDEwLjg3ODggMy4yMTg1OUwxMy4zNTM3IDUuNjkzNDZaIj48L3BhdGg+PC9zdmc+"/>
+	</defs>
+	<style>
+		.s0 { fill: #4f46e5 } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<path id="Layer" class="s0" d="m0 6c0-3.3 2.7-6 6-6h32c3.3 0 6 2.7 6 6v32c0 3.3-2.7 6-6 6h-32c-3.3 0-6-2.7-6-6z"/>
+	<path id="Layer" class="s1" d="m-14.6 35h-5.7l-8.3-14.6v14.6h-5.6v-23.5h5.6l8.3 14.6v-14.6h5.7z"/>
+	<use id="brush-2-fill(1)" href="#img1" transform="matrix(.688,0,0,.688,5.5,5.5)"/>
 </svg>

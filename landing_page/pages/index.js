@@ -16,10 +16,10 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Nextly - Free Nextjs & TailwindCSS Landing Page Template</title>
+        <title>Rake-It - Scrape all platforms in one go</title>
         <meta
           name="description"
-          content="Nextly is a free landing page template built with next.js & Tailwind CSS"
+          content="Rake-It Your one stop shop for all your data scraping needs."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -27,7 +27,7 @@ const Home = () => {
       <Navbar />
       <Hero />
       <SectionTitle
-        pretitle="Nextly Benefits"
+        pretitle="Rake-It Benefits"
         title=" Why should you use Rake-It?">
         Rake-it has been a long standing friend of people that would like to gather data without having to know how to code. We don't ask questions, we just do. No matter how much or how little data you would like to scrape, we do it all.
       </SectionTitle>

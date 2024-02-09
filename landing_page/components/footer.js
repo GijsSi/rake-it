@@ -27,17 +27,15 @@ export default function Footer() {
                       height="32"
                       className="w-8"
                     />
-                  <span>Nextly</span>
+                  <span>Rake-It</span>
               </Link>
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              Nextly is a free landing page & marketing website
-              template for startups and indie projects. Its built with
-              Next.js & TailwindCSS. And its completely open-source.
+              Rake-It is a platform that caters towards people who would like to scrape data without having to code. We are the best in the business and we have been doing this for a long time.
             </div>
 
-            <div className="mt-5">
+            {/* <div className="mt-5">
               <a
                 href="https://vercel.com/?utm_source=web3templates&utm_campaign=oss"
                 target="_blank"
@@ -50,7 +48,7 @@ export default function Footer() {
                   height="44"
                 />
               </a>
-            </div>
+            </div> */}
           </div>
 
           <div>
@@ -106,7 +104,7 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="my-10 text-sm text-center text-gray-600 dark:text-gray-400">
+        {/* <div className="my-10 text-sm text-center text-gray-600 dark:text-gray-400">
           Copyright © {new Date().getFullYear()}. Made with ♥ by{" "}
           <a
             href="https://web3templates.com/"
@@ -121,10 +119,10 @@ export default function Footer() {
             rel="noopener ">
             Glazestock
           </a>
-        </div>
+        </div> */}
       </Container>
-      {/* Do not remove this */}
-      <Backlink />
+      {/* Do not remove this
+      <Backlink /> */}
     </div>
   );
 }
@@ -172,33 +170,33 @@ const Linkedin = ({ size = 24 }) => (
   </svg>
 );
 
-const Backlink = () => {
-  return (
-    <a
-      href="https://web3templates.com"
-      target="_blank"
-      rel="noopener"
-      className="absolute flex px-3 py-1 space-x-2 text-sm font-semibold text-gray-900 bg-white border border-gray-300 rounded shadow-sm place-items-center left-5 bottom-5 dark:bg-trueGray-900 dark:border-trueGray-700 dark:text-trueGray-300">
-      <svg
-        width="20"
-        height="20"
-        viewBox="0 0 30 30"
-        fill="none"
-        className="w-4 h-4"
-        xmlns="http://www.w3.org/2000/svg">
-        <rect
-          width="30"
-          height="29.5385"
-          rx="2.76923"
-          fill="#362F78"
-        />
-        <path
-          d="M10.14 21.94H12.24L15.44 12.18L18.64 21.94H20.74L24.88 8H22.64L19.58 18.68L16.36 8.78H14.52L11.32 18.68L8.24 8H6L10.14 21.94Z"
-          fill="#F7FAFC"
-        />
-      </svg>
+// const Backlink = () => {
+//   return (
+//     <a
+//       href="https://web3templates.com"
+//       target="_blank"
+//       rel="noopener"
+//       className="absolute flex px-3 py-1 space-x-2 text-sm font-semibold text-gray-900 bg-white border border-gray-300 rounded shadow-sm place-items-center left-5 bottom-5 dark:bg-trueGray-900 dark:border-trueGray-700 dark:text-trueGray-300">
+//       <svg
+//         width="20"
+//         height="20"
+//         viewBox="0 0 30 30"
+//         fill="none"
+//         className="w-4 h-4"
+//         xmlns="http://www.w3.org/2000/svg">
+//         <rect
+//           width="30"
+//           height="29.5385"
+//           rx="2.76923"
+//           fill="#362F78"
+//         />
+//         <path
+//           d="M10.14 21.94H12.24L15.44 12.18L18.64 21.94H20.74L24.88 8H22.64L19.58 18.68L16.36 8.78H14.52L11.32 18.68L8.24 8H6L10.14 21.94Z"
+//           fill="#F7FAFC"
+//         />
+//       </svg>
 
-      <span>Web3Templates</span>
-    </a>
-  );
-};
+//       <span>Web3Templates</span>
+//     </a>
+//   );
+// };
